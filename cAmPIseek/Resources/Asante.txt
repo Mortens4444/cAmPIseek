@@ -1,0 +1,8 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.cgi?type=motion
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg?type=motion
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?rate=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi

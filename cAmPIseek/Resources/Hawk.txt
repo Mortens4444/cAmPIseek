@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg?res=full&x0=0&y0=0&x1=100%&y1=100%&quality=12&doublescan=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=VGA

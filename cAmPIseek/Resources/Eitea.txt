@@ -1,0 +1,1 @@
+rtsp://[IP_ADDRESS]/[CHANNEL]/[USERNAME]:[PASSWORD]/main

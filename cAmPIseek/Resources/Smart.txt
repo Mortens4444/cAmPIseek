@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/pusher.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

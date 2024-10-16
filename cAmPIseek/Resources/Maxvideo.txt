@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=appletvstream
+rtsp://[IP_ADDRESS]/0/[USERNAME]:[PASSWORD]/main

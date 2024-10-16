@@ -1,0 +1,10 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[IP_ADDRESS]/videostream.asf?usr=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/snapshot.cgi?1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/webra_fcgi.fcgi?api=get_jpeg_raw&chno=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/monitor.cgi?Channel=[CHANNEL]&Audio=0000&Live=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snl/live/1/1

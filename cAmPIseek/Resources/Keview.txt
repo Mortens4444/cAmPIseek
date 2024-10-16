@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1

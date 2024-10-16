@@ -1,0 +1,3 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/101
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/202

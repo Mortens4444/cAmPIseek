@@ -1,0 +1,4 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=0.sdp?real_stream--rtp-caching=100
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VideoInput/1/mpeg4/1

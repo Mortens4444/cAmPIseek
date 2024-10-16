@@ -1,0 +1,12 @@
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]&strm=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/imagep/picture.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/m/camera[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/rtspStream/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/rtspStreamOvf/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/rtspStreamOvf/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch01/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/streaming/channels/0

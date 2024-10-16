@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=appletvstream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Image.jpg

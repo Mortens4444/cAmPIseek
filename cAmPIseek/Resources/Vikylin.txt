@@ -1,0 +1,4 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1/h264major
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=0&subtype=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/101

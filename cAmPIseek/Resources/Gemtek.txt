@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot[CHANNEL].jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/channel[CHANNEL]

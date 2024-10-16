@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/jpg/image.cgi?camera=1&resolution=320x240&compression=25
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/jpg/image.cgi?date=1&clock=1&camera=[CHANNEL]&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/jpg/image.cgi?date=1&clock=1&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/nph-update_4ch.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/user/videostream.cgi

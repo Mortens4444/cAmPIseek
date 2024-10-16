@@ -1,0 +1,1 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/oneshotimage.jpg

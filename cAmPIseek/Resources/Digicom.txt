@@ -1,0 +1,9 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/admin/view.cgi?profile=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/jpg/image.cgi?camera=1&resolution=320x240&compression=25
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/jpg/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/avc.cgi?audiostream=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/video.mjpg 
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.mpg

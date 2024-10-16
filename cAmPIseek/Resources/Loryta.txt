@@ -1,0 +1,4 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=1&subtype=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=1&subtype=1&unicast=true&proto=Onvif

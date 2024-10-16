@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api/mjpegvideo.cgi?InputNumber=1&StreamNumber=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api/mjpegvideo.cgi?InputNumber=1&StreamNumber=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api/mjpegvideo.cgi?InputNumber=1&StreamNumber=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?resolution=640x480
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi

@@ -1,0 +1,7 @@
+http://[IP_ADDRESS]/iphone/11?[USERNAME]:[PASSWORD]&
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/sf.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetStream.cgi?Video=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf

@@ -1,0 +1,10 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/jpg/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.jpg?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg?q=30&fps=33&id=0.5
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ProfileToken_1_1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ProfileToken_1_4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VideoInput/1/h264/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VideoInput/1/mpeg4/1

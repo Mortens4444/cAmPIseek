@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?usr=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot/view[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream

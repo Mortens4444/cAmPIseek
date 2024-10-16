@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/mjpeg.cgi?user=[USERNAME]&password=[PASSWORD]&channel=[CHANNEL]

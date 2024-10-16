@@ -1,0 +1,12 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/avc.cgi?audiostream=[CHANNEL]
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=0.sdp?real_stream
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp?real_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ONVIF/MediaInput
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Onvif/Streaming/2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream2

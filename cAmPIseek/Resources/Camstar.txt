@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/main

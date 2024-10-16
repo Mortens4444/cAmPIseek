@@ -1,0 +1,11 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/jpg/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/getstream.cgi?ch=[CHANNEL]&stream_id=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/capture
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/mjpeg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mp4

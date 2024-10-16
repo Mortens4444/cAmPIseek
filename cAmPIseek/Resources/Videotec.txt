@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/cgi-bin/encoder?USER=[USERNAME]&PWD=[PASSWORD]&SNAPSHOT
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=0.sdp?
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/av0

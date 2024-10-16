@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/cgi-bin/view.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch1_0.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch2_0.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch4_0.264

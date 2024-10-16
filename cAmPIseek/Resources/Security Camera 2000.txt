@@ -1,0 +1,8 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot/view[CHANNEL].jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/[CHANNEL]/1:1/main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Onvif/live/1/1

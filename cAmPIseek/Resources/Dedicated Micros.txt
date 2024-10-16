@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/display_pic.cgi?cam=[CHANNEL]&res=hi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=[CHANNEL]&subtype=00
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/medias[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/medias2

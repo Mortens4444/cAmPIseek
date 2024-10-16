@@ -1,0 +1,7 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/livestream/11?action=play&media=video_audio_data
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg?q=30&fps=33&id=0.5
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/12

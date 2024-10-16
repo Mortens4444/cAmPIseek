@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/cgi-bin/encoder?USER=[USERNAME]&PWD=[PASSWORD]&SNAPSHOT
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api.htm?op.liveimage=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264

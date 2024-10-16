@@ -1,0 +1,7 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/jpg/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.cgi?resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Video?Codec=MPEG4&Width=720&Height=576&Fps=30

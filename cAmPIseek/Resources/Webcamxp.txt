@@ -1,0 +1,7 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam_1.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/snapshot.cgi?1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/out.jpg?id=0.5
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg

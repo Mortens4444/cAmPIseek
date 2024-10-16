@@ -1,0 +1,7 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/avc.cgi?audiostream=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Onvif/Streaming/2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/PSIA/Streaming/channels/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/PSIA/Streaming/channels/2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream

@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegSize=M
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

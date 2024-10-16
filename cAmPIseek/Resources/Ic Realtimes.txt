@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/snapshot.cgi?1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor

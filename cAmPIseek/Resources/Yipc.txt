@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/snapshot.cgi?action=getdata&channel.[CHANNEL].capture=true&channel.[CHANNEL].resolution=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?rate=11

@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_1.h264

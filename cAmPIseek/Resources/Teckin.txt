@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video0_unicast

@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]*[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?submenu=mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf

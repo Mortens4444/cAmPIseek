@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/3gpp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video1

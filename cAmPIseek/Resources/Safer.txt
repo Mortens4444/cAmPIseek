@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=[CHANNEL]&subtype=00
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4cif
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stander/livestream/0/0

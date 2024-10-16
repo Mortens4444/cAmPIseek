@@ -1,0 +1,9 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0
+http://[IP_ADDRESS]/videostream.cgi?usr=[USERNAME]&pwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/media.amp

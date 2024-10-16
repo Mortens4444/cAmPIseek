@@ -1,0 +1,7 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stillimg[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=VGA
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch00/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch1/0

@@ -1,0 +1,4 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/v1

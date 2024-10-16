@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/jpg/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi

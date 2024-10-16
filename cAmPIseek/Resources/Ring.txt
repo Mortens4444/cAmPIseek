@@ -1,0 +1,6 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.cgi?type=motion&camera=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.cgi?type=motion&camera=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.cgi?type=motion&camera=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ring.0/doorbell_82595437/livestream.mp4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/343ea4d97645_live

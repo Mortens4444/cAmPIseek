@@ -1,0 +1,8 @@
+http://[IP_ADDRESS]/cgi-bin/wappaint?camera_no=[CHANNEL]&animation=0&name=[USERNAME]&password=[PASSWORD]&pic_size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api/mjpegvideo.cgi?InputNumber=1&StreamNumber=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?CH=[CHANNEL]&Codec=jpeg&Size=[WIDTH]x[HEIGHT]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/s1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/101
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/v2

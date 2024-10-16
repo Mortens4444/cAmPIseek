@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?rate=0
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

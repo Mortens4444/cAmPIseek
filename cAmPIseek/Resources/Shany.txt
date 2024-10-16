@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/cgi-bin/encoder?USER=[USERNAME]&PWD=[PASSWORD]&SNAPSHOT
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/avc.cgi?audiostream=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/PSIA/Streaming/channels/2

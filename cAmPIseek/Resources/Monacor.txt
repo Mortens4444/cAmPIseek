@@ -1,0 +1,9 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/guest/Video.cgi?media=JPEG
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/jpg/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/control/faststream.jpg?stream=MxPEG&needlength&fps=6
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?Camera=0&BandWidth=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?CH=[CHANNEL]&Codec=jpeg&Size=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?CH=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?Status=0

@@ -1,0 +1,7 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0 
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?submenu=mjpg

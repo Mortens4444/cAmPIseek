@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/feed1.ffm
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

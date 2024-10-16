@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/h264/ch2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/h264/ch3

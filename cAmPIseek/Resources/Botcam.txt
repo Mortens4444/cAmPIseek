@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf

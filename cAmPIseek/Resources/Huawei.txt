@@ -1,0 +1,12 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot/view[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?640x480
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?profile=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?profile=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?submenu=mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/LiveMedia/ch1/Media1/trackID=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/LiveMedia/ch1/Media2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/1

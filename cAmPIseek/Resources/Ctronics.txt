@@ -1,0 +1,14 @@
+http://[IP_ADDRESS]/iphone/11?[USERNAME]:[PASSWORD]&
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]&strm=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmp/snap.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/12
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch01.264

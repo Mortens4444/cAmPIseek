@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VideoInput/[CHANNEL]/h264/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VideoInput/1/h264/1

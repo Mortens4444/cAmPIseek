@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=[USERNAME]&pwd=[PASSWORD]&

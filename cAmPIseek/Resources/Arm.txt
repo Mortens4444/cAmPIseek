@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ivop.get?action=live&THREAD_ID=
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live3.sdp

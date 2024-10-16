@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/getimage?video=1&audio=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/imagep/picture.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/shot.asp

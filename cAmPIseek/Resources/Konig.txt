@@ -1,0 +1,8 @@
+http://[IP_ADDRESS]/cgi-bin/wappaint?camera_no=[CHANNEL]&animation=0&name=[USERNAME]&password=[PASSWORD]&pic_size=2
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/1/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi

@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[IP_ADDRESS]/videostream.asf?usr=[USERNAME]&pwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video1

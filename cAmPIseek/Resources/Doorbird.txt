@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/bha-api/image.cgi?http-user=[USERNAME]&http-password=[PASSWORD]
+http://[IP_ADDRESS]/bha-api/video.cgi?http-user=[USERNAME]&http-password=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/bha-api/video.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg/media.amp

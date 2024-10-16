@@ -1,0 +1,10 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/jpeg?session_id=[CHANNEL]&buffer=0&prio=high&frame=4
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/jpeg?stream=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/mjpeg?session_id=[CHANNEL]&buffer=0&prio=high&frame=4
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/mjpeg?session_id=0&buffer=0&prio=high&frame=4
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/mjpeg?stream=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpeg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4

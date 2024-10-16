@@ -1,0 +1,10 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=[CHANNEL]&subtype=00
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=[CHANNEL]&subtype=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=[CHANNEL]&subtype=1&authBasic=[AUTH]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=0&subtype=00
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=0&subtype=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=0&subtype=1&authBasic=[AUTH]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=554&subtype=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0

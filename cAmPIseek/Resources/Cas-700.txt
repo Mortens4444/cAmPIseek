@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/capture
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/video2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]

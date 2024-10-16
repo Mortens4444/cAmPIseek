@@ -1,0 +1,7 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/sf.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video/cam[CHANNEL]/2.0?audio=0&stream=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch0

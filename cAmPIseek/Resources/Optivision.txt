@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ivop.get?action=live&THREAD_ID=
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.cgi?date=1&clock=1&resolution=[WIDTH]x[HEIGHT]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/3

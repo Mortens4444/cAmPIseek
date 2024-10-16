@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/fwstream.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/fwstream.cgi?ServerId=0&AppKey=0x00006784&PortId=0&CameraId=[CHANNEL]&PauseTime=0&FwCgiVer=0x0001
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/fwstream.cgi?ServerId=0&AppKey=0x331287e3&CameraId=[CHANNEL]&PortId=0&PauseTime=1&FwCgiVer=0x0001
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam0_[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam0_1

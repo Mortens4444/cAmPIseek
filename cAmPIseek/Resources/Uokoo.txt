@@ -1,0 +1,11 @@
+http://[IP_ADDRESS]/mjpeg.cgi?user=[USERNAME]&password=[PASSWORD]&channel=[CHANNEL]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0 
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?rate=11
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?resolution=8&rate=13
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ROH/channel/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tcp/av0_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/11

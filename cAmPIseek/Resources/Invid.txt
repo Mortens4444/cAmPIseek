@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?Status=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetImage.cgi

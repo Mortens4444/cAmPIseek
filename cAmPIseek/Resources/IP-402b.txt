@@ -1,0 +1,3 @@
+http://[IP_ADDRESS]/snap.jpg?usr=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?rate=11

@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[IP_ADDRESS]/cam1/mpeg4?user=[USERNAME]&pwd=[PASSWORD]

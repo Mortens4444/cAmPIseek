@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/main

@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi?camera=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=1&subtype=00&authbasic=[AUTH]

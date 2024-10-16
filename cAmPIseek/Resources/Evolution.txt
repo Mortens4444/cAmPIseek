@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/PSIA/Streaming/channels/2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.sdp

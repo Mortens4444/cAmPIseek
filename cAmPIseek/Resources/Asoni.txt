@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?Status=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetImage.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/v2

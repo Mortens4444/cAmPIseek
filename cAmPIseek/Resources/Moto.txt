@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?profile=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?profile=0

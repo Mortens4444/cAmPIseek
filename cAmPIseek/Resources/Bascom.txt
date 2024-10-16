@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/guest/Video.cgi?media=JPEG
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/guest/Video.cgi?media=JPEG&channel=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/video_audio/profile1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/video_audio/profile2

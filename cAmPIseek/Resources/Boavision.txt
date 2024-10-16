@@ -1,0 +1,15 @@
+http://[IP_ADDRESS]/video.mjpg?oids=1&username=[USERNAME]&password=[USERNAME]pass&balls=balls5
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg?q=30&fps=33&id=0.5
+mms://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+rtsp://[IP_ADDRESS]/[CHANNEL]/[USERNAME]:[PASSWORD]/main
+rtsp://[IP_ADDRESS]/0/[USERNAME]:[PASSWORD]/main
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1/h264major
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/12
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4/[CHANNEL]/media.amp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream/1/h264minor

@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media.amp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/11

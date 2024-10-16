@@ -1,0 +1,8 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/snapshot.cgi?action=getdata&channel.[CHANNEL].capture=true&channel.[CHANNEL].resolution=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/current[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/current[CHANNEL].mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/screen.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/screen.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0

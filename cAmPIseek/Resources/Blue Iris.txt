@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image/[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video/cam[CHANNEL]/2.0?audio=0&stream=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264

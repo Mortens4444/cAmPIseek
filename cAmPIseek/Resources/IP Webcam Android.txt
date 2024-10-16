@@ -1,0 +1,6 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg?res=full&x0=0&y0=0&x1=100%&y1=100%&quality=12&doublescan=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?1280x720
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?submenu=mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed

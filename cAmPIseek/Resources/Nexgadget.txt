@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tcp/av0_0

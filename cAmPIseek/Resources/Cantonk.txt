@@ -1,0 +1,7 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/avc.cgi?audiostream=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegSize=M
+rtsp://[IP_ADDRESS]/[CHANNEL]/[USERNAME]:[PASSWORD]/main
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/1

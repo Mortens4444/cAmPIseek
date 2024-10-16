@@ -1,0 +1,4 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam2/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam3/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/11

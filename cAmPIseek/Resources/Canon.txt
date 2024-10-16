@@ -1,0 +1,16 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?&AUDIO=YES&CHOPIMAGE=YES&STREAM=YES&WANTIMAGE=[CHANNEL].JPG&SENDEMPTYIMAGES=NO
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/vdata.v
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/viewer/admin/index.html?lang=en
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/-wvhttp-01-/GetLiveImage
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/-wvhttp-01-/GetOneShot?image_size=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/-wvhttp-01-/GetOneShot?image_size=[WIDTH]x[HEIGHT]&frame_count=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/-wvhttp-01-/GetOneShot?image_size=320x240
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/-wvhttp-01-/GetOneShot?image_size=320x240&frame_count=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/-wvhttp-01-/video.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/profile1=r
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/profile1=u
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream/profile0=r
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream/profile1=r
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream/profile2=r

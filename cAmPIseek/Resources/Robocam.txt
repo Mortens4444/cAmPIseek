@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/capture
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/h264

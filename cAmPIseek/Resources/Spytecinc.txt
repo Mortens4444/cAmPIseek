@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264/ch1/sub/

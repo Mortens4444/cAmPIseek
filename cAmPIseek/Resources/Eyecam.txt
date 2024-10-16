@@ -1,0 +1,17 @@
+http://[IP_ADDRESS]/snapshot.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.cgi?user=[USERNAME]&pwd=[PASSWORD]&count=0
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]*[HEIGHT]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[IP_ADDRESS]/videostream.asf?usr=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0 
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/snapshot.cgi?action=getdata&channel.[CHANNEL].capture=true&channel.[CHANNEL].resolution=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=VGA
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=[CHANNEL]&subtype=00
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/CH002.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/streaming/channels/0

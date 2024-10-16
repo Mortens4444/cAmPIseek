@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/mjpeg.cgi?user=[USERNAME]&password=[PASSWORD]&channel=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg?q=30&fps=33&id=0.5
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

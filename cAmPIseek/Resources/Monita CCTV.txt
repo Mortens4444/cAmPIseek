@@ -1,0 +1,1 @@
+rtsp://[IP_ADDRESS]/channel=0;stream=0;user=[USERNAME];pass=[PASSWORD];

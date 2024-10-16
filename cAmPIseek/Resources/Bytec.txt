@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/user/videostream.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live.sdp

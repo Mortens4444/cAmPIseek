@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot/view[CHANNEL].jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/11

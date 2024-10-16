@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/3.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg/video.mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg/video.mjpg?resolution=1280x960&fps=15

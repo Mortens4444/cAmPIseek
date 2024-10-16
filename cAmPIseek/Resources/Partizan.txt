@@ -1,0 +1,5 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch01/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch01/2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream

@@ -1,0 +1,12 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/jpg/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/still.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/still.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=VGA
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Webcam.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/[CHANNEL]/1:1/main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/main

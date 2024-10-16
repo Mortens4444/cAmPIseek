@@ -1,0 +1,3 @@
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/301
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/501

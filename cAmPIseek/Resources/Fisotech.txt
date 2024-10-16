@@ -1,0 +1,11 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+rtsp://[IP_ADDRESS]/[CHANNEL]/[USERNAME]:[PASSWORD]/main
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=[CHANNEL]&subtype=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/onvif-h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live_mpeg4.sdp

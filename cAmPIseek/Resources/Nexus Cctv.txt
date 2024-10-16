@@ -1,0 +1,15 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/avc.cgi?audiostream=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/mjpegcif.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?resolution=8&rate=13
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ROH/channel/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/12

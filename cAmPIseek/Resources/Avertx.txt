@@ -1,0 +1,8 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/jpg/image.cgi
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live_st1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/video1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif-stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif-stream2

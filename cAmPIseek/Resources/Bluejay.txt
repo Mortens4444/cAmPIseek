@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/Stream?Video
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=VGA
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4

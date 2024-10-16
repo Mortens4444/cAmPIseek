@@ -1,0 +1,11 @@
+http://[IP_ADDRESS]/mjpeg.cgi?user=[USERNAME]&password=[PASSWORD]&channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_video.cgi?channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpeg.cgi?[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/netcam.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nph-mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nph-mjpeg.cgi?[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nph-h264.cgi

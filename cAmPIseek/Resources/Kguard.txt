@@ -1,0 +1,11 @@
+http://[IP_ADDRESS]/cgi-bin/video_snapshot.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/wappaint?camera_no=[CHANNEL]&animation=0&name=[USERNAME]&password=[PASSWORD]&pic_size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/capture[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/control/faststream.jpg?stream=MxPEG&needlength&fps=6
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stillimg[CHANNEL].jpg
+mms://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/hiQ.sdp

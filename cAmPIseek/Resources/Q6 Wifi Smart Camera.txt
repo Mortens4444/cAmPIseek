@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_01

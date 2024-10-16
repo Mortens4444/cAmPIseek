@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]*[HEIGHT]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=1&subtype=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/profile1

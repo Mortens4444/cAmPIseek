@@ -1,0 +1,1 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api/mjpegvideo.cgi?InputNumber=1&StreamNumber=[CHANNEL]

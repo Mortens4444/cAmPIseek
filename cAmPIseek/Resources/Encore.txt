@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/mjpeg.cgi?user=[USERNAME]&password=[PASSWORD]&channel=[CHANNEL]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/jpg/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpg.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

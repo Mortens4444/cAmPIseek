@@ -1,0 +1,7 @@
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/12
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/12

@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=appletvstream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.sav

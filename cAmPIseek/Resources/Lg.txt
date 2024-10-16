@@ -1,0 +1,17 @@
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?&AUDIO=YES&CHOPIMAGE=YES&STREAM=YES&WANTIMAGE=[CHANNEL].JPG&SENDEMPTYIMAGES=NO
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.jpg?cam=[CHANNEL]&quality=3&size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?channel=[CHANNEL]&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/shot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?profile=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?submenu=mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/camera.stm
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Master-0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/PSIA/Streaming/channels/2?videoCodecType=H.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Slave-0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video1+audio1

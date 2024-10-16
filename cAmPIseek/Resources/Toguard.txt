@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/cgi-bin/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/view.cgi?chn=0&u=[USERNAME]&p=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264

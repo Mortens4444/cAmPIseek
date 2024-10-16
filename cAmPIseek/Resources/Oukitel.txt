@@ -1,0 +1,1 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?1920x1080

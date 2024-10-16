@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?chID=2&streamType=main&linkType=tcp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/chID=1&streamType=main&linkType=tcpst

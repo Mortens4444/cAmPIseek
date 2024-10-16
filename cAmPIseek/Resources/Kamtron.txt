@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/ccm/ccm_pic_get.jpg?hfrom_handle=887330&dsess=1&dsess_nid=MHts.aNrHwnbJfxbeiKi8_hCF1VhBQ&dsess_sn=[USERNAME]&dtoken=p0_xxxxxxxxxx
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?&AUDIO=YES&CHOPIMAGE=YES&STREAM=YES&WANTIMAGE=0.JPG&SENDEMPTYIMAGES=NO
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ccm/ccm_pic_get.js?dsess=1&dsess_nid=ME3UvaT9XL0M4HLe9ul46UZCESRjTvtM&dsess_sn=1jfiegbra36la&dtoken=p1_xxxxxxxxxx&dflag=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg

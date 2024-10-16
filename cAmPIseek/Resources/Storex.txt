@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/mjpeg.cgi?user=[USERNAME]&password=[PASSWORD]&channel=[CHANNEL]
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&password=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/medias2

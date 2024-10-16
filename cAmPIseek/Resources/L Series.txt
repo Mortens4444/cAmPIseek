@@ -1,0 +1,11 @@
+http://[IP_ADDRESS]/snapshot.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/mjpeg.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?img=vga
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=3
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/user/videostream.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?resolution=8&rate=13

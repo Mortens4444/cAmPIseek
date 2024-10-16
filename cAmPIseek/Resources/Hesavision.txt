@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?CH=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetImage.cgi

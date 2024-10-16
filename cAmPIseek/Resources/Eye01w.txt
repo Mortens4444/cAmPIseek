@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/rtspStreamOvf/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live_h264.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/streaming/channels/0

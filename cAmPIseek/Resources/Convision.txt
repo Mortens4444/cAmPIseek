@@ -1,0 +1,8 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/camera.jpg?camera=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/camera.push?camera=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/fullsize.jpg?camera=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/fullsize.push?camera=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/fullsize.push?camera=1&sleep=15
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/hugesize.jpg?camera=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/hugesize.push?camera=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream

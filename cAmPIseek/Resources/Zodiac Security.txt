@@ -1,0 +1,3 @@
+http://[IP_ADDRESS]/videostream.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]&audiostream=1
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&password=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]

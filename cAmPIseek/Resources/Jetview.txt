@@ -1,0 +1,7 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.jpg?cam=[CHANNEL]&quality=3&size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/avc.cgi?audiostream=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/PSIA/Streaming/channels/h264

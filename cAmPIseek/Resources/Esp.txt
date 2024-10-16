@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/camera.jpg?camera=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

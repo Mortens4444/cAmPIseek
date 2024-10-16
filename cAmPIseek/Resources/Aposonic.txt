@@ -1,0 +1,8 @@
+http://[IP_ADDRESS]/cgi-bin/view.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/wappaint?camera_no=[CHANNEL]&animation=0&name=[USERNAME]&password=[PASSWORD]&pic_size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/guest/Video.cgi?media=JPEG&channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_video.cgi?channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetStream.cgi?Video=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/images/stream_[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?profile=[CHANNEL]

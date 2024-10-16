@@ -1,0 +1,9 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/onvif-h264-1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video

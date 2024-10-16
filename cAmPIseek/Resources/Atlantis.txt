@@ -1,0 +1,8 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/getimage.cgi?motion=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/guest/Video.cgi?media=JPEG&channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg?size=3
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mp4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live0.264

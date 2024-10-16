@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.jpg?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/capture
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg.cgi

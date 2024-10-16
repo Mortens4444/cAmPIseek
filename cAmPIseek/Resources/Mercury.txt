@@ -1,0 +1,9 @@
+http://[IP_ADDRESS]/cgi-bin/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.jpg?account=[USERNAME]&password=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream2

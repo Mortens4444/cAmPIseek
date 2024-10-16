@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/sf.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stillimg.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live3.sdp

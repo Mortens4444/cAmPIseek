@@ -1,0 +1,6 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/LowResolutionVideo
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tcp_live/ch0_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tcp_live/ch0_1

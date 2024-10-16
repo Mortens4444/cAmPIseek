@@ -1,0 +1,2 @@
+http://[IP_ADDRESS]/videostream.cgi?usr=[USERNAME]&pwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264

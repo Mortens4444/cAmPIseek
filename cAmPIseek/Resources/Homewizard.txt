@@ -1,0 +1,3 @@
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+mms://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+rtsp://[IP_ADDRESS]/live/av0?user=[USERNAME]&passwd=[PASSWORD]

@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/cgi-bin/wappaint?camera_no=[CHANNEL]&animation=0&name=[USERNAME]&password=[PASSWORD]&pic_size=2

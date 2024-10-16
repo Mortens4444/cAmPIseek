@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&password=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/IMAGE.JPG
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg?type=motion
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf

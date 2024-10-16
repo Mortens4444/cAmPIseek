@@ -1,0 +1,1 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/control/faststream.jpg?stream=MxPEG&needlength&fps=6

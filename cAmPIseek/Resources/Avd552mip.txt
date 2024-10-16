@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live2.sdp

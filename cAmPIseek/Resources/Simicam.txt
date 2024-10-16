@@ -1,0 +1,5 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=10_stream=1.sdp?real_stream
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=2_stream=1.sdp?real_stream
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=5_stream=1.sdp?real_stream
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=6_stream=1.sdp?real_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif1

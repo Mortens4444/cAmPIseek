@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/admin/snapshot.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmp/snap.jpg

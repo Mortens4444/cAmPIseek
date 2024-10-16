@@ -1,0 +1,1 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0.liv

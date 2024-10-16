@@ -1,0 +1,8 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/101
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/201
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/301
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/401
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/501
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/601
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/701
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/901

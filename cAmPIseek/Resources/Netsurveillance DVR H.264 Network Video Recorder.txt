@@ -1,0 +1,12 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/current[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live?camera=[CHANNEL]&fps=5&quality=75&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=0.sdp
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=0.sdp?
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi

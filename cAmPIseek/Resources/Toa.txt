@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/getjpeg.cgi?[USERNAME]&ch[CHANNEL]

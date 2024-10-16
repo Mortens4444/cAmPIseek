@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/cgi-bin/view.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/pusher.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Jpeg/CamImg.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1/h264major

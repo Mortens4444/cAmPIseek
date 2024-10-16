@@ -1,0 +1,13 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?channel=[CHANNEL]&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?resolution=640x480
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?img=vga
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg
+mms://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live3.sdp

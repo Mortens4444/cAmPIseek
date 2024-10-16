@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_video.cgi?channel=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/media.sav
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media.amp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/media.amp

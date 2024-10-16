@@ -1,0 +1,10 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/control/faststream.jpg?stream=MxPEG&needlength&fps=6
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpegStreamer.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?rate=11

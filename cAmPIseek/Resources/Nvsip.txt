@@ -1,0 +1,8 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[IP_ADDRESS]/live0.264?user=[USERNAME]&passwd=[PASSWORD]
+rtsp://[IP_ADDRESS]/live2.264?user=[USERNAME]&passwd=[PASSWORD]
+rtsp://[IP_ADDRESS]/live4.264?user=[USERNAME]&passwd=[PASSWORD]
+rtsp://[IP_ADDRESS]/live6.264?user=[USERNAME]&passwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live0.264

@@ -1,0 +1,10 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image?res=half&x0=0&y0=0&x1=1600&y1=1200&quality=15&doublescan=0&ssn=1340443365044&id=1340443379230
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/cam0/still.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/still.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/defaultPrimary?streamType=m
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/defaultPrimary?streamType=u
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/defaultPrimary3?streamType=u
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/defaultPrimary-3?streamType=u

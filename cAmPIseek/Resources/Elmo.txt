@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/capture_normal.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image/qvga.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam[CHANNEL]/h264

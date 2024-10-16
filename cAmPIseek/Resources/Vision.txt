@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/view.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264&basic_auth=[AUTH]

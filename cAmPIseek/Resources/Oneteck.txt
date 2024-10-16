@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/stream.cgi?stream=MainStream&Audio=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/imagep/picture.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video2.mjpg

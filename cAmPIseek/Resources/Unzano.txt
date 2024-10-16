@@ -1,0 +1,1 @@
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/p3.mjpg

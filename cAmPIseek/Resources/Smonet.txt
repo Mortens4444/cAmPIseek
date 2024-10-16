@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_1.264

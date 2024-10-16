@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live?camera=[CHANNEL]&framerate=5
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live?codec=mjpeg&camera=[CHANNEL]

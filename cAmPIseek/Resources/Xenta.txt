@@ -1,0 +1,2 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]*[HEIGHT]
+http://[IP_ADDRESS]/videostream.asf?usr=[USERNAME]&pwd=[PASSWORD]

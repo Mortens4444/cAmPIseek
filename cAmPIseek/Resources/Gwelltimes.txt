@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mp4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif2

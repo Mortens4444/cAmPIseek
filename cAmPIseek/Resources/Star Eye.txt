@@ -1,0 +1,1 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg?q=30&fps=33&id=0.5

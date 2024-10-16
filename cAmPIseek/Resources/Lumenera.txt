@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/nph-video
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-usr/image
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-usr/nph-image
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-usr/nph-video

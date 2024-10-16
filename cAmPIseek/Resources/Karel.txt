@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/capture[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch0

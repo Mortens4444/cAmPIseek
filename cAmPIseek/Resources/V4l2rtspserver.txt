@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/geo/bali1/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/unicast

@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/snapshot.sh?res=low
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/av_stream/ch0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/av_stream/ch1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0

@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/cgi-bin/view.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=3
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi

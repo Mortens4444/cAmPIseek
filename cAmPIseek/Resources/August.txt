@@ -1,0 +1,7 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1/stream[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1/stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif/stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1_v

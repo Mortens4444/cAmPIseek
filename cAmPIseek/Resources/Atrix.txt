@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed

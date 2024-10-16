@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.cgi?

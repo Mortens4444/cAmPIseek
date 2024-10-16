@@ -1,0 +1,13 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[IP_ADDRESS]/mjpeg.cgi?user=[USERNAME]&password=[PASSWORD]&channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/_gCVimage.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.jpg?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image/jpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/MJPEG.CGI
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VIDEO.CGI
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video/mjpg.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_hd.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live3.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/play1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/play3.sdp

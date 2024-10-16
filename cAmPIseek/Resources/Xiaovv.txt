@@ -1,0 +1,10 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=0.sdp
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/H264/ch1/main/av_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/H264/ch1/sub/av_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Onvif/live/1/1

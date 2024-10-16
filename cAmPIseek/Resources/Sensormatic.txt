@@ -1,0 +1,6 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api.htm?op.liveimage=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/mjpeg.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.mjpeg

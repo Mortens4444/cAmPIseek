@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/fwstream.cgi?ServerId=0&AppKey=0x331287e3&CameraId=[CHANNEL]&PortId=0&PauseTime=1&FwCgiVer=0x0001
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam0_0

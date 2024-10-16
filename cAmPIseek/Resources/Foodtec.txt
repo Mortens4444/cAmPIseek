@@ -1,0 +1,2 @@
+http://[IP_ADDRESS]/videostream.cgi?usr=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/reports/CamImage?height=480&width=640&cam=[CHANNEL]&live=&annotate=

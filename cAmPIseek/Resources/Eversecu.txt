@@ -1,0 +1,8 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4/media.amp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif/stream3/mobotix.mjpeg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif-stream2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tcp/av0_0

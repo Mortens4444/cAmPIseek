@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/get_image?uuid=8ce29a75e847488797e1a32122fb6fc8&public=0FFS3vFQ9I
