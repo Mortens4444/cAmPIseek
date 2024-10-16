@@ -1,0 +1,12 @@
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]&strm=[CHANNEL]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]*[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/0/mjpeg.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot_3gp.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream.asf
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream.av
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live_mpeg4.sdp

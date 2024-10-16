@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/videostream.cgi?usr=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.jpg?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/out.jpg?id=0.5
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed

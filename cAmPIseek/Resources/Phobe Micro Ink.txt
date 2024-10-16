@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam_1.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/shot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?profile=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed

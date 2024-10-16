@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.cgi?msubmenu=mjpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/rtsph2641080p

@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg?size=-1x-1&download=yes
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.264

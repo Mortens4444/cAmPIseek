@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/dms
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/stream.cgi?nowprofileid=2

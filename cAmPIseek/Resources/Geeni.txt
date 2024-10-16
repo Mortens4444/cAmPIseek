@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/cgi-bin/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/mjpeg.jpg
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream_0

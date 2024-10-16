@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/cgi-bin/video_snapshot.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/getimage.cgi?motion=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/getimage.cgi?motion=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/1/video.mjpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/video/profile1

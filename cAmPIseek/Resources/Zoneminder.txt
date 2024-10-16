@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/cgi-bin/nph-zms?mode=jpeg&monitor=[CHANNEL]&scale=100&maxfps=30&buffer=1000&user=[USERNAME]&pass=[PASSWORD]

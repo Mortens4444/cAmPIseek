@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=0&stream=0.sdp?real_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VideoInput/[CHANNEL]/h264/1

@@ -1,0 +1,2 @@
+http://[IP_ADDRESS]/cgi-bin/webapp.cgi?MODE=8&ID=[USERNAME]&PW=[PASSWORD]&VER=3000&CH=[CHANNEL]
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]

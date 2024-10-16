@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/capture
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=VGA

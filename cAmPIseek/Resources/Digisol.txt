@@ -1,0 +1,7 @@
+http://[IP_ADDRESS]/snapshot.jpg?account=[USERNAME]&password=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam_h264.sdp

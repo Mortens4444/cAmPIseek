@@ -1,0 +1,1 @@
+rtsp://[IP_ADDRESS]/554/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0

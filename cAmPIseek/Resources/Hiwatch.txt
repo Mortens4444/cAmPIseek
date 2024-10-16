@@ -1,0 +1,17 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam0/mjpeg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ISAPI/Streaming/Channels/101
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ISAPI/Streaming/Channels/102
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Onvif/live/1/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/101
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/Channels/102
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/11

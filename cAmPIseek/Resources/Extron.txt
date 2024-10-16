@@ -1,0 +1,1 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/extron3-HS-06

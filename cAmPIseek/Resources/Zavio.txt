@@ -1,0 +1,15 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/jpg/image
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/view/image?pro_[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?channel=[CHANNEL]&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?resolution=640x480
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg?size=3
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream?uri=video.pro[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg?q=30&fps=33&id=0.5
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mp4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.pro1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.pro2

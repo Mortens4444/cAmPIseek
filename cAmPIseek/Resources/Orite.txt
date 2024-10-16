@@ -1,0 +1,6 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?Status=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?Status=false
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Jpeg/CamImg.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream.asf
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream.jpg

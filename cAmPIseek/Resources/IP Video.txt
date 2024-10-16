@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?CH=[CHANNEL]&Codec=jpeg&Size=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?Status=false
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Jpeg/CamImg.jpg

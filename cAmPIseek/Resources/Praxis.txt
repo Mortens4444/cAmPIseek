@@ -1,0 +1,13 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/jpg/image.cgi?camera=1&resolution=320x240&compression=25
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/jpg/image.cgi?date=1&clock=1&resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg?size=3
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/1/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-media/media.amp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-media/media.amp?videocodec=h264&resolution=640x480
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4/media.amp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif-media/media.amp

@@ -1,0 +1,6 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/config/jpeg.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/MediaInput/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/rtpvideo[CHANNEL].sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/rtpvideo1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/rtpvideoch12.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video

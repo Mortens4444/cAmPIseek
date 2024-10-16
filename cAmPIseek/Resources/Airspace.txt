@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/H264?
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/H264?ch=1&subtype=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/H264?ch=1&subtype=1

@@ -1,0 +1,13 @@
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/video.mjpg
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+mms://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/media.sav
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live0.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live3
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live4

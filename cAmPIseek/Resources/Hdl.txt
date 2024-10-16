@@ -1,0 +1,6 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/dms?nowprofileid=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/stream.cgi?nowprofileid=[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/H264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/H264/ch[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0

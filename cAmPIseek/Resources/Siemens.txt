@@ -1,0 +1,16 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/getstream.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/getstream.cgi?VideoType=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/getstream.cgi?VideoType=3
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/stilljpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?resolution=640x480
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor?channel=[CHANNEL]&subtype=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/livestream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/livestream/trackID=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mp4

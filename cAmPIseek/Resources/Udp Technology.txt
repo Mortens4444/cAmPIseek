@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api/mjpegvideo.cgi?InputNumber=1&StreamNumber=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/viewer/video.jpg?resolution=640x480
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nvc-cgi/operator/snapshot.fcgi?channel=[CHANNEL]&name=snapshot&resolution=custom&quality=70&width=[WIDTH]&height=[HEIGHT]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_unicast_firststream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_unicast_secondstream

@@ -1,0 +1,12 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam.mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/camera.jpg?camera=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/capture
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/deadbeef
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg/1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg?res=full&x0=0&y0=0&x1=100%&y1=100%&quality=12&doublescan=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/view

@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/hi3510/snap.cgi?&-getstream&-chn=2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

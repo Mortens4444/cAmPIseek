@@ -1,0 +1,7 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mjpg?q=30&fps=33&id=0.5
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam/realmonitor
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/profile0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/streamtype=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/streamtype=1

@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stillimg.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stillimg1.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stillimg2.jpg

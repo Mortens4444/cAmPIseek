@@ -1,0 +1,5 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/guest/Video.cgi?media=JPEG&channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Getvideo.cgi?Cookie=
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.mp4

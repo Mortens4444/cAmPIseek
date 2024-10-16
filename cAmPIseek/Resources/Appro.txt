@@ -1,0 +1,11 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api.htm?op.liveimage=1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/dms
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/dms?nowprofileid=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/mjpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ipcam/stream.cgi?nowprofileid=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VIDEO.CGI
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video?profile=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?rate=11
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?resolution=8&rate=13
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live3.sdp

@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264/ch01/main/av_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/MediaInput/mpeg4

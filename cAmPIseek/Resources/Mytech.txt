@@ -1,0 +1,1 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam2/mpeg4

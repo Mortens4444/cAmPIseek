@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ucast/11

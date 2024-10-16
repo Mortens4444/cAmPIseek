@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?resolution=8&rate=13
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/av0_0

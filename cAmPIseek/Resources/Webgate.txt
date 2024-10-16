@@ -1,0 +1,3 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch1/stream2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch2/stream2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch5/stream2

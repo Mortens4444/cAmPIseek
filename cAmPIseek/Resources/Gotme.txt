@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/cgi-bin/mobile_snapshot.cgi?user=[USERNAME]&pwd=[PASSWORD]

@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/action/stream?subject=mjpeg&user=[USERNAME]&pwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videoMain

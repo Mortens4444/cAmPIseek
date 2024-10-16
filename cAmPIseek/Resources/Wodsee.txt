@@ -1,0 +1,9 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/view.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/snapshot.jpg?user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/av0_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_1.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4

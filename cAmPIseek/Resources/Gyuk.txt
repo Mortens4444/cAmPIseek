@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/view/image?pro_[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg?size=3

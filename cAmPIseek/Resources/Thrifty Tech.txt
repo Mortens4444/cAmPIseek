@@ -1,0 +1,1 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=101.sdp?

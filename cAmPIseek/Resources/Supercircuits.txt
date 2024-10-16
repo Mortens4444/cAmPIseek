@@ -1,0 +1,8 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Getvideo.cgi?Cookie=
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ivop.get?action=live&THREAD_ID=
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nvc-cgi/operator/snapshot.fcgi?channel=[CHANNEL]&name=snapshot&resolution=custom&quality=70&width=[WIDTH]&height=[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_unicast_firststream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_unicast_secondstream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/mpeg4

@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/rtsp/mjpeg.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/rtsp/record.sdp

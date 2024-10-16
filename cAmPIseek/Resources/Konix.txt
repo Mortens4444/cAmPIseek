@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi

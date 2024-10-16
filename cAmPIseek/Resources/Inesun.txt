@@ -1,0 +1,6 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1/h264major
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam1/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264major
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264minor
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/MediaInput/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4cif

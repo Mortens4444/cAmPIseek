@@ -1,0 +1,3 @@
+http://[IP_ADDRESS]/cgi-bin/jpg.cgi?refresh=0&channel=[CHANNEL]&id=[USERNAME]&pass=[PASSWORD]&resolution=[WIDTH]x[HEIGHT]&oldbrowser=1
+http://[IP_ADDRESS]/getjpeg.cgi?[USERNAME]&ch[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/monitor.cgi?Channel=[CHANNEL]&Audio=0000&Live=1

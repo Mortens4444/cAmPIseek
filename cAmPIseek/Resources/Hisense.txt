@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/webcapture.jpg?command=snap&channel=1?COUNTER

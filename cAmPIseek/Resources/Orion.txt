@@ -1,0 +1,6 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam4/mpeg4
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream0

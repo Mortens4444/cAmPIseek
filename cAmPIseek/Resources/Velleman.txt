@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[IP_ADDRESS]/videostream.asf?usr=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/guest/Video.cgi?media=JPEG&channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/sf.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi

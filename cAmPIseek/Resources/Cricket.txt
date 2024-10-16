@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/rtsp/unicast/DefaultProfile-01
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/rtsp/unicast/DefaultProfile-02

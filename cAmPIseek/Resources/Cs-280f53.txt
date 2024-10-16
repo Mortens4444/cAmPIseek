@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=VGA
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf

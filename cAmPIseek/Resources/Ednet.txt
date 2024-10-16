@@ -1,0 +1,2 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=0&u=[USERNAME]&p=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=0&u=&p=

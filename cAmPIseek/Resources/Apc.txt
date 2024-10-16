@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32&rate=0 
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/images/stream_[CHANNEL].jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/images/webcam.jpg

@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/out.jpg?id=0.5
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.cgi

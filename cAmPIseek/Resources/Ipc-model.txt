@@ -1,0 +1,3 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videoMain
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videoSub

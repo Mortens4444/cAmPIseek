@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=appletvstream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=snapshot
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264

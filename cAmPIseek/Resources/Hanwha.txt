@@ -1,0 +1,9 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.cgi?msubmenu=mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stw-cgi/video.cgi?msubmenu=mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stw-cgi/video.cgi?msubmenu=snapshot&action=view
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stw-cgi/video.cgi?msubmenu=stream&action=view&Profile=1&CodecType=MJPEG&Resolution=1920x1080
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stw-cgi/video.cgi?msubmenu=snapshot&action=view&channel=5&profile=1
+mms://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/video.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0/profile4/media.smp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/profile02/media.smp

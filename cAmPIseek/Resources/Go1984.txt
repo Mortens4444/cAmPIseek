@@ -1,0 +1,2 @@
+http://[IP_ADDRESS]/[USERNAME]/java/mjpeg?camera=[CHANNEL]&motion=0
+http://[IP_ADDRESS]/[USERNAME]/javascript/Jpg?Camera=[CHANNEL]&motion=1

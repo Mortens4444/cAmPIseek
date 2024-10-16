@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/shot.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/special/Cam[CHANNEL].jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264/ch1/sub/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/v2

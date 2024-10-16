@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/cgi-bin/encoder?USER=[USERNAME]&PWD=[PASSWORD]&SNAPSHOT

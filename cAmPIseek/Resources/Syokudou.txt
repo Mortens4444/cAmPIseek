@@ -1,0 +1,1 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nphMotionJpeg?Resolution=640x480&Quality=Standard

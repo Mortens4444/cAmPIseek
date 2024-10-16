@@ -1,0 +1,6 @@
+http://[IP_ADDRESS]/videostream.cgi?rate=0&user=[USERNAME]&pwd=[PASSWORD]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/net_jpeg.cgi?ch=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/snapshot.cgi?1
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.cgi?
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.cgi?
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0/av0

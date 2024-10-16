@@ -1,0 +1,13 @@
+http://[IP_ADDRESS]/cgi-bin/image/mjpeg.cgi?id=[USERNAME]&passwd=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?chn=[CHANNEL]&u=[USERNAME]&p=[PASSWORD]
+http://[IP_ADDRESS]/cgi-bin/stream/nph-stream.cgi?id=[USERNAME]&pw=[PASSWORD]&streamtype=jpeg&truenph=1
+http://[IP_ADDRESS]/cgi-bin/stream/nph-stream.cgi?id=[USERNAME]&pw=[PASSWORD]&streamtype=mjpeg&truenph=1
+http://[IP_ADDRESS]/jpeg.fcgi?mode=real&si=[USERNAME]&mon=1&ch=[CHANNEL]&width=[WIDTH]&height=[HEIGHT]&quality=7&fps=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/guest/Video.cgi?media=JPEG&channel=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/webra_fcgi.fcgi?api=get_jpeg_raw&chno=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-usr/image
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jpg/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/pic01/images.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4

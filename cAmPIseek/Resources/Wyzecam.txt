@@ -1,0 +1,15 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1ddc4de6-f48b-484b-995f-a66a98b34af2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-cgi/mjpg/video.cgi?cameraId=59313593&token=[TOKEN]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/living-room-cam/stream.m3u8
+https://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/webcam/?action=stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/living-room-cam
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mia_cam
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/unicast
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video3/unicast
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/wyze-1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/wyze-2

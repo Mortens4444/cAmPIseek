@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1

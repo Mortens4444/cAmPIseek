@@ -1,0 +1,11 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/?action=stream
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/webra_fcgi.fcgi?api=get_jpeg_raw&chno=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nvc-cgi/operator/snapshot.fcgi?channel=[CHANNEL]&name=snapshot&resolution=custom&quality=70&width=[WIDTH]&height=[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nvc-cgi/operator/snapshot.fcgi?channel=0&name=snapshot&resolution=custom&quality=70&width=320&height=240
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nvc-cgi/operator/snapshot.fcgi?channel=0&name=snapshot&resolution=custom&quality=70&width=640&height=480
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/nvc-cgi/operator/snapshot.fcgi?channel=2&name=snapshot&resolution=custom&quality=70&width=320&height=240
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegCam=[CHANNEL]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snap.jpg?JpegSize=XL
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/snapshot/view[CHANNEL].jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_unicast_firststream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/gnz_media/main

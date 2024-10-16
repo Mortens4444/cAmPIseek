@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/1/video.mjpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/

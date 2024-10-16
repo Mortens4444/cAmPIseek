@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/camera.mjpeg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream?topic=/camera/color/image_raw

@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/cgi-bin/cmd/system?GET_STREAM&USER=[USERNAME]&PWD=[PASSWORD]

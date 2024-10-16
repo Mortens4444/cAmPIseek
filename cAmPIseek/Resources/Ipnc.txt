@@ -1,0 +1,13 @@
+http://[IP_ADDRESS]/cgi-bin/video_snapshot.cgi?user=[USERNAME]&pwd=[PASSWORD]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0.ch
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1.ch
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/dev=IPC-00000000/media=0/channel=0&level=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/dev=IPC-00000000/media=0/channel=0&level=1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/PSIA/Streaming/channels/2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video1

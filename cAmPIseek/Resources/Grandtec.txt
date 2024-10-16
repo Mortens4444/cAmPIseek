@@ -1,0 +1,10 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/still.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Jpeg/CamImg.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/still.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=[WIDTH]x[HEIGHT]
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video.cgi?resolution=VGA
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videofeed
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/[CHANNEL]
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/PSIA/Streaming/channels/0?videoCodecType=H.264

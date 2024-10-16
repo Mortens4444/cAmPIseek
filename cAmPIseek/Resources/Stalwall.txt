@@ -1,0 +1,3 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=1.sdp?real_stream--rtp-caching=100
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=0_stream=0.sdp?real_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/1

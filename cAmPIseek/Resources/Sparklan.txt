@@ -1,0 +1,10 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/_gCVimage.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/capture
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/video
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/goform/video2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image/jpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpeg.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/VIDEO.CGI
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video/mjpg.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mpeg4

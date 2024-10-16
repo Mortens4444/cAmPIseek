@@ -1,0 +1,4 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.cgi
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.cgi?type=motion
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/shot.jpg
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cam3/mpeg4

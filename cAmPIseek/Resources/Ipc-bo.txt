@@ -1,0 +1,10 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264Preview_01_main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264Preview_01_sub
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264Preview_02_main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264Preview_03_main
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264Preview_03_sub
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264Preview_04_sub
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264Preview_06_sub
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264Preview_11_sub
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/MainStream

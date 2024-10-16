@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/jstream.cgi?chid=[CHANNEL]&cnt=0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Streaming/channels/101

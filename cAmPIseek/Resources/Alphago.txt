@@ -1,0 +1,1 @@
+rtsp://[IP_ADDRESS]/av0_1&user=[USERNAME]&password=[PASSWORD]

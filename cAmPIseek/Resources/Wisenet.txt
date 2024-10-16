@@ -1,0 +1,12 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi-bin/video.cgi?msubmenu=mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mjpg/1/video.mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stw-cgi/video.cgi?msubmenu=mjpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stw-cgi/video.cgi?msubmenu=snapshot&action=view
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0/onvif/profile2/media.smp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/axis-media/media.amp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/HighResolutionVideo
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif/profile1/media.smp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/onvif/profile2/media.smp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/profile2/media.smp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/profile3/media.smp

@@ -1,0 +1,2 @@
+http://[IP_ADDRESS]/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&usr=[USERNAME]&pwd=[PASSWORD]&
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11

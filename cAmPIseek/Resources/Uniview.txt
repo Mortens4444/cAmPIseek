@@ -1,0 +1,14 @@
+http://[IP_ADDRESS]/cgi-bin/snapshot.cgi?loginuse=[USERNAME]&loginpas=[PASSWORD]
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=1_stream=0.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/11
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/video0/
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/video1
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/video2
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/media/video3
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mediavideo
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/unicast/c1/s0/live
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/unicast/c1/s1/live
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/unicast/c2/s1/live
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videoMain

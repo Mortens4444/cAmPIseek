@@ -1,0 +1,8 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/img/snapshot.cgi?size=2
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/tmpfs/auto.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch01.264?ptype=udp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch01_sub.264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264_stream
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live3.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/mode=real&idc=1&ids=1

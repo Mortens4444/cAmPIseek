@@ -1,0 +1,5 @@
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=[CHANNEL]&stream=0.sdp?
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=[CHANNEL]_stream=0.sdp
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=[CHANNEL]_stream=0.sdp?real_stream
+rtsp://[IP_ADDRESS]/user=[USERNAME]_password=[PASSWORD]_channel=[CHANNEL]_stream=1.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/ch00_0

@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/cgi/mjpg/mjpeg.cgi
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream1

@@ -1,0 +1,5 @@
+http://[IP_ADDRESS]/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]&resolution=32
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/av0_0
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ch0_0.h264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/H264
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/ONVIF/Streaming/channels/0_a/unicast

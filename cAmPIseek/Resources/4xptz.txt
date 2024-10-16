@@ -1,0 +1,2 @@
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live_mpeg4.sdp
+rtsp://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream0

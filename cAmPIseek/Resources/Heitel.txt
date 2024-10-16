@@ -1,0 +1,1 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/webclisession/image_req0?camera=[CHANNEL]

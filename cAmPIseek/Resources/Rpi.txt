@@ -1,0 +1,4 @@
+http://[IP_ADDRESS]/cgi-bin/videostream.cgi?user=[USERNAME]&pwd=[PASSWORD]
+http://[IP_ADDRESS]/video.mjpg?oids=1&username=[USERNAME]&password=[USERNAME]pass&balls=balls5
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/stream.mjpg

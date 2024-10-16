@@ -1,0 +1,2 @@
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/GetData.cgi?Camera=0&BandWidth=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/Jpeg/Img.jpg

@@ -1,0 +1,1 @@
+http://[IP_ADDRESS]/snap.jpg?usr=[USERNAME]&pwd=[PASSWORD]

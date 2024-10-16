@@ -1,0 +1,8 @@
+http://[IP_ADDRESS]/videostream.asf?user=[USERNAME]&pwd=[PASSWORD]&resolution=64&rate=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/api/video?encode=h264(1)
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/h264
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/image.jpg
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/live/h264_ulaw
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/video/cam[CHANNEL]/2.0?audio=0&stream=0
+http://[USERNAME]:[PASSWORD]@[IP_ADDRESS]/videostream.asf
+rtsp://[IP_ADDRESS]/user=[USERNAME]&password=[PASSWORD]&channel=1&stream=0.sdp?
