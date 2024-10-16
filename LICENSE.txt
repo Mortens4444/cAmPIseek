@@ -1,0 +1,24 @@
+Commercial License Agreement
+
+This Commercial License Agreement ("Agreement") is entered into by and between [Tibor Papp - Mortens or Mortens4444] ("Licensor") and the entity or individual licensing the Software ("Licensee").
+
+1. **Grant of License:**
+   - Licensor grants Licensee a non-exclusive, non-transferable license to use the software described herein ("Software") for commercial purposes.
+
+2. **Restrictions:**
+   - Licensee shall not sublicense, sell, lease, or otherwise transfer the Software to any third party without prior written consent from Licensor.
+
+3. **Term and Termination:**
+   - This license is effective upon acceptance and shall continue until terminated. Licensor may terminate this Agreement if Licensee breaches any terms herein.
+
+4. **Payment:**
+   - In consideration for the license granted herein, Licensee agrees to pay Licensor the agreed-upon fee, as outlined in a separate invoice or agreement.
+
+5. **Warranty and Support:**
+   - The Software is provided "as is," without warranty of any kind. Licensor is not obligated to provide support, maintenance, updates, or modifications unless otherwise agreed upon in writing.
+
+6. **Limitation of Liability:**
+   - Licensor shall not be liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising out of the use or inability to use the Software.
+
+7. **Governing Law:**
+   - This Agreement shall be governed by and construed in accordance with the laws of Hungary.

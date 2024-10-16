@@ -1,0 +1,10 @@
+.sonarqube/
+.vs/
+*.bak
+*.dll
+bin/
+obj/
+TestReport/
+TestResults/
+coverage.xml
+output.coverage
