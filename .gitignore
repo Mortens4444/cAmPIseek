@@ -8,3 +8,4 @@ TestReport/
 TestResults/
 coverage.xml
 output.coverage
+*.tmp
